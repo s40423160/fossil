@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/</loc>
-<lastmod>2018-01-04T20:06:55-00:00</lastmod>
+<lastmod>2018-01-10T20:30:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/archives.html</loc>
-<lastmod>2018-01-04T20:06:55-00:00</lastmod>
+<lastmod>2018-01-10T20:30:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/tags.html</loc>
-<lastmod>2018-01-04T20:06:55-00:00</lastmod>
+<lastmod>2018-01-10T20:30:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/categories.html</loc>
-<lastmod>2018-01-04T20:06:55-00:00</lastmod>
+<lastmod>2018-01-10T20:30:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/pages/about/</loc>
 <lastmod>2017-11-08T19:23:53+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</loc>
+<lastmod>2018-01-10T13:40:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,28 +159,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/category/course.html</loc>
-<lastmod>2018-01-04T13:40:00+08:06</lastmod>
+<lastmod>2018-01-10T13:40:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/tag/2017fall.html</loc>
-<lastmod>2018-01-04T13:40:00+08:06</lastmod>
+<lastmod>2018-01-10T13:40:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/tag/cadp.html</loc>
-<lastmod>2018-01-04T13:40:00+08:06</lastmod>
+<lastmod>2018-01-10T13:40:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://cadpa.kmol.info/40423160/doc/trunk/blog/author/40423160.html</loc>
-<lastmod>2018-01-04T13:40:00+08:06</lastmod>
+<lastmod>2018-01-10T13:40:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
