@@ -93,7 +93,7 @@
 <v t="leo.20171115201039.2"><vh>Piston</vh></v>
 </v>
 </v>
-<v t="leo.20171115201807.1" a="E"><vh>期中報告</vh>
+<v t="leo.20171115201807.1"><vh>期中報告</vh>
 <v t="leo.20171115201807.2" a="E"><vh>期中報告</vh>
 <v t="leo.20171115201807.3"><vh>期中報告影片</vh></v>
 </v>
@@ -113,22 +113,42 @@
 <v t="leo.20171109121615.1"><vh>自評成績</vh>
 <v t="leo.20171109121615.2"><vh>自評成績</vh></v>
 </v>
-<v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
-<v t="leo.20170911090822.2"><vh>Win 64 位元專用</vh></v>
+<v t="leo.20180110224143.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180110224143.2"><vh>W10-W12</vh>
+<v t="leo.20180110224143.3"><vh>第10到第12周</vh></v>
 </v>
-<v t="leo.20170911091459.1"><vh>Python 與程式設計</vh>
-<v t="leo.20170911091508.1" a="E"><vh>Python 與 C/C++</vh>
-<v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
+<v t="leo.20180110224143.4"><vh>參考影片</vh>
+<v t="leo.20180110224143.5"><vh>參考影片</vh></v>
 </v>
-<v t="leo.20170911091622.1" a="E"><vh>如何學好 Python3</vh>
-<v t="leo.20170911091622.2"><vh>Python3 學習</vh></v>
 </v>
-<v t="leo.20170911100148.1" a="E"><vh>如何學習 CAD</vh>
-<v t="leo.20170911100148.2"><vh>CAD 學習</vh></v>
+<v t="leo.20180110223650.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180110223650.2"><vh>第13到第15周</vh></v>
 </v>
-<v t="leo.20170911100657.1" a="E"><vh>MCADP 實習</vh>
-<v t="leo.20170911100657.2"><vh>電腦輔助設計實習</vh></v>
+<v t="leo.20180110224817.1"><vh>W16-W18</vh>
+<v t="leo.20180110224817.2"><vh>第16到第18周</vh></v>
 </v>
+<v t="leo.20180110225350.1"><vh>影片部分</vh>
+<v t="leo.20180110225350.2"><vh>onshape影片一</vh>
+<v t="leo.20180110225350.3"><vh>onshape影片一</vh></v>
+</v>
+<v t="leo.20180110225350.4"><vh>onshape影片二</vh>
+<v t="leo.20180110225350.5"><vh>onshape影片二</vh></v>
+</v>
+<v t="leo.20180110225350.6"><vh>彈珠檯模擬影片</vh>
+<v t="leo.20180110225350.7"><vh>彈珠檯模擬影片</vh></v>
+</v>
+<v t="leo.20180110225350.8"><vh>個人軌道</vh>
+<v t="leo.20180110225350.9"><vh>個人軌道影片</vh></v>
+</v>
+</v>
+<v t="leo.20180110231328.1" a="E"><vh>期末影片</vh>
+<v t="leo.20180110231328.2"><vh>期末影片</vh></v>
+</v>
+<v t="leo.20180110230144.1"><vh>心得</vh>
+<v t="leo.20180110230144.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20180110230150.1"><vh>自評成績</vh>
+<v t="leo.20180110230150.2"><vh>自評成績</vh></v>
 </v>
 <v t="leo.20170911093601.1"><vh>W1 練習</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
@@ -150,27 +170,16 @@
 <v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
 </v>
 </v>
-<v t="leo.20170911095149.1"><vh>課程評分</vh>
+<v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
 </v>
-<v t="leo.20170911095149.4" a="E"><vh>課程實習分組</vh>
+<v t="leo.20170911095149.4"><vh>課程實習分組</vh>
 <v t="leo.20170911095149.5"><vh>如何分組</vh></v>
 </v>
 </v>
 <v t="leo.20170911090052.1"><vh>快捷鍵</vh>
 <v t="leo.20170911090052.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170108171733.64"><vh>各式內容引用範例</vh>
-<v t="yen.20170108171733.65" a="E"><vh>導入數學符號與方程式</vh>
-<v t="yen.20170108171733.66"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="yen.20170108171733.67" a="E"><vh>導入縮排程式碼</vh>
-<v t="yen.20170108171733.68"><vh>引用程式碼</vh></v>
-</v>
-<v t="yen.20170108171733.69" a="E"><vh>導入影片</vh>
-<v t="yen.20170108171733.70"><vh>iframe 導入影片</vh></v>
-</v>
 </v>
 </v>
 </v>
@@ -222,71 +231,6 @@
 * 按 o 鍵可以切換單張或全域檢視 (overview)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
-<t tx="leo.20170911090822.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911090822.2"># 隨身碟內容介紹
-
-* Windows 64 位元電腦專用
-* 可以在電腦間遊走, 擁有統一的近端操作環境
-* USB 碟遊走各電腦, 要小心散播病毒
-* 玩線上遊戲, 但不要玩到 USB 中毒
-* 打開 c:\mde\python2017fall_36 目錄, 從 start.bat 開始
-* Python, C/C++, Fossil SCM, Git, Solvespace, V-rep, Blender
-* 夠您玩兩年了
-
-</t>
-<t tx="leo.20170911091459.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091508.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091508.2"># 計算機程式學習順序
-
-* 先學 Python3, 兼學 C/C++
-* 了解 WWW 網頁與伺服器架構, 學 Javascript
-* 若想再寫手機程式或大型程式, 學 Java
-* 其他, 例如: Go, Ruby, Scala, R, Matlab, Mathematica 也都不錯
-* 程式就是特定格式的流程,  任何人都必須接觸了解運用
-* 計算機程式是與電腦及網路溝通的重要工具, 工程師必備
-* 不要再問: 我到底需不需要精熟計算機程式與網路
-
-</t>
-<t tx="leo.20170911091622.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911091622.2"># 如何學好 Python3
-
-* 上課專心聽, 用心動手練習, 發揮自學力、執行力與想像力
-* 工程師可以利用程式, 以協同模式, 預先模擬設計許多產品
-* 先學會如何使用 Fossil SCM, 再了解 Pelican 與 Reveal.js
-* 利用 Leo Editor 編輯投影片與網誌, 保留學習心得
-* 不斷寫, 再不斷寫, 電腦與網路就會是您的好夥伴
 
 </t>
 <t tx="leo.20170911093601.1">&lt;section&gt;
@@ -378,47 +322,6 @@
 * 每一個階段的練習, 都要拍成練習影片, 上傳 Youtube 與 Vimeo
 * 影片標題必須冠上校名、系名、課程名與學號
 
-
-</t>
-<t tx="leo.20170911100148.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911100148.2"># 如何學習 CAD
-
-* CAD 為 Computer Aided Design
-* 尤其是 Mechanical Computer Aided Design
-* 2D/3D 繪圖是電腦輔助設計的表達方式之一
-* 口語、文字、 2D、 3D、 數學與實作表達, 都很重要
-* 2D/3D 繪圖採用 Solvespace 與 Onshape
-* 熟悉近端與雲端 CAD 後, 可以再用其他  MCAD 工具
-* 其他工具包括: SolidWorks, Inventor, Creo Parametric 等
-
-</t>
-<t tx="leo.20170911100657.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911100657.2"># 電腦輔助設計實習
-
-* 利用近端與雲端工具繪製 Nutcraker 曲柄滑塊機構
-* 在近端與雲端模擬機構運動, 進行防止干涉運算設計
-* 了解如何將 Nutcracker 零件轉入 V-rep 進行模擬
-* 利用 Python 程式跨網路操控 V-rep 中的 Nutcracker
-* 重複上述步驟, 各組利用連桿與滑塊機構設計循環運動系統
-* 利用  TinkerCAD了解 Arduino 實體與網際馬達控制
-* 各小組完成一項機電資循環運動系統設計與模擬
-* 各大組將評比後的最終設計, 進行實體列印組裝與展示
 
 </t>
 <t tx="leo.20170912145121.1"></t>
@@ -792,6 +695,178 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20171115204153.2"># 期中心得
 
 ####  一轉眼過了半個學期, 一開始上的非常吃力, 但是都有在課餘時間跟上進度, solvespace用的不是很習慣, 至少有把Nutcracker的每個零件檔都畫出來, 也有把Nutcracker組裝好, 每個影片都有上傳到Vimeo跟Youtube上, 希望下半學期可以跟上進度, 能夠在上課時間就完成</t>
+<t tx="leo.20180110223650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110223650.2"># W13-W15
+
+* 分組討論小鋼球提球機構
+* 分組討論期末報告
+* 使用OnShape製作小鋼球提球機構
+* servomotor實際操作
+* python2017fall_36-2協同辦法製作期末報告
+
+</t>
+<t tx="leo.20180110224143.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110224143.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110224143.3"># W10-W12
+
+* 加入到第一組
+* 分組討論小鋼球提球機構
+* 建立小組的Github倉儲
+* 分配Onshape影片</t>
+<t tx="leo.20180110224143.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110224143.5"># 參考影片
+
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JcjSIvs-lEk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20180110224817.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110224817.2"># W16-W18
+
+* 分組討論小鋼球提球機構
+* 分組討論製作期末報告
+* 放棄使用latex方式製作期末報告
+* 彈珠檯製作與模擬
+* 個人軌道的製作及模擬</t>
+<t tx="leo.20180110225350.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110225350.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110225350.3"># onshape影片一
+
+
+&lt;iframe src="https://player.vimeo.com/video/250096665" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/250096665"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 Onshape 影片文化一&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20180110225350.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110225350.5"># onshape影片二
+
+
+&lt;iframe src="https://player.vimeo.com/video/250098570" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/250098570"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 Onshape 影片文化二&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20180110225350.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110225350.7"># 彈珠檯模擬影片
+
+
+&lt;iframe src="https://player.vimeo.com/video/249897827" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/249897827"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 個人期末驗收 彈珠臺&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20180110225350.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110225350.9"># 個人軌道模擬影片
+
+
+&lt;iframe src="https://player.vimeo.com/video/250241069" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/250241069"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 個人軌道模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20180110230144.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110230144.2"># 期末心得
+
+####  期中後加入到第一組, 有了組員可以相互之間討論, 做起事情來也比之前簡單許多, 在這將近九個禮拜的時間, 和組員一起為期末而努力, 大家分工, 而我則是負責期末報告的整合及編寫, 經過大家的努力後, 機構終於設計出來, 而且還用3D印表機印出實體, 雖然中間遇到不少問題, 但是我們有完成鋼球機構, 我也將fossil與Github整合協同了, 辛苦組員了, 也辛苦助教了, 謝謝老師一學期的教導</t>
+<t tx="leo.20180110230150.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110230150.2"># 自評成績
+
+* 出席: 20
+* 平時表現: 20
+* 驗收考試: 20
+* 驗收簡報: 15
+* 自評成績: 75</t>
+<t tx="leo.20180110231328.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180110231328.2"># 期末影片
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -997,81 +1072,6 @@ g.es("admin pelican 近端執行完畢")
 
 </t>
 <t tx="yen.20170108171733.5"></t>
-<t tx="yen.20170108171733.64">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="yen.20170108171733.65">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.66"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="yen.20170108171733.67">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="yen.20170108171733.68">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="yen.20170108171733.69">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="yen.20170108171733.70">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.8">@language xml
 @tabwidth -4
