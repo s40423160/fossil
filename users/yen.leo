@@ -127,8 +127,8 @@
 <v t="leo.20180110224817.1"><vh>W16-W18</vh>
 <v t="leo.20180110224817.2"><vh>第16到第18周</vh></v>
 </v>
-<v t="leo.20180110225350.1"><vh>影片部分</vh>
-<v t="leo.20180110225350.2"><vh>onshape影片一</vh>
+<v t="leo.20180110225350.1" a="E"><vh>影片部分</vh>
+<v t="leo.20180110225350.2" a="E"><vh>onshape影片一</vh>
 <v t="leo.20180110225350.3"><vh>onshape影片一</vh></v>
 </v>
 <v t="leo.20180110225350.4"><vh>onshape影片二</vh>
@@ -170,7 +170,7 @@
 <v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
 </v>
 </v>
-<v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
+<v t="leo.20170911095149.1"><vh>課程評分</vh>
 <v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
 </v>
@@ -204,6 +204,7 @@
 <v t="leo.20171228160309.1"><vh>@edit 20171228.md</vh></v>
 <v t="leo.20180104195745.1"><vh>@edit 20180104.md</vh></v>
 <v t="leo.20180110203002.1"><vh>@edit 20180111.md</vh></v>
+<v t="leo.20180111114846.1"><vh>@edit 20180111-1.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -866,7 +867,8 @@ g.es("admin pelican Github 執行完畢")
 </t>
 <t tx="leo.20180110231328.2"># 期末影片
 
-</t>
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASgzBx4Emms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
