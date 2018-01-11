@@ -150,26 +150,6 @@
 <v t="leo.20180110230150.1"><vh>自評成績</vh>
 <v t="leo.20180110230150.2"><vh>自評成績</vh></v>
 </v>
-<v t="leo.20170911093601.1"><vh>W1 練習</vh>
-<v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
-<v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
-</v>
-<v t="leo.20170911093601.4" a="E"><vh>練習 Fossil SCM</vh>
-<v t="leo.20170911093601.5"><vh>了解 Fossil SCM</vh></v>
-</v>
-<v t="leo.20170913103008.1" a="E"><vh>Fossil SCM 功能說明</vh>
-<v t="leo.20170913103008.2"><vh>Fossil SCM 功能</vh></v>
-</v>
-<v t="leo.20170913103534.1" a="E"><vh>採用 SCM 的目標 1/2</vh>
-<v t="leo.20170913103534.2"><vh>SCM 的目標 1/2</vh></v>
-</v>
-<v t="leo.20170913103707.1" a="E"><vh>採用 SCM 的目標 2/2</vh>
-<v t="leo.20170913103707.2"><vh>SCM 的目標 2/2</vh></v>
-</v>
-<v t="leo.20170913104957.1" a="E"><vh>總結 SCM 的目標</vh>
-<v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
-</v>
-</v>
 <v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
@@ -233,53 +213,6 @@
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
-<t tx="leo.20170911093601.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.3"># 開啟隨身系統
-
-* 點擊 c:\mde\python2017fall_36 目錄中的 start.bat 開啟
-* 產生與 c:\mde\python2017fall_36\data 對應的 y:\ 
-* 產生專屬的 Dos 指令區與 SciTE 編輯器
-* 用瀏覽器, 以 pyqt5 example calculator 關鍵字找 calculator.py
-* 將 calculator.py 內容放入 SciTE, 在 c:\tmp 存為 .py 後按 F5 
-* 接著用 ansi c hello word 關鍵字找 .c 程式, 放入 SciTE, 存為 .c
-* 存檔後, 按下 F5 執行
-* SciTE 可以採解譯模式, 執行 Python3 與 ANSI C 程式
-
-</t>
-<t tx="leo.20170911093601.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170911093601.5"># 了解 Fossil SCM
-
-* 利用 Fossil SCM 關鍵字查詢, 十分鐘後, 請回答下列問題
-* 何謂 SCM? 何謂 Fossil SCM?
-* 如何使用 Fossil SCM?
-* 用與不用 SCM, 有沒有差別?
-* 機械設計工程師為何需要使用 Fossil SCM?
-
-
-</t>
 <t tx="leo.20170911095149.1">&lt;section&gt;
     @others
 &lt;/section&gt;
@@ -338,81 +271,6 @@ g.es("admin pelican Github 執行完畢")
 
 </t>
 <t tx="leo.20170912210747.1"></t>
-<t tx="leo.20170913103008.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103008.2"># SCM 功能
-
-* SCM 是軟體組成元件與狀態的管理
-* 關心要納入那些元件? 如何納入? 元件間如何組合運作?
-* 關心目前的狀態如何? 功能是否滿足需求?
-* 成員是否團隊合作? 是否創造出協同效益?
-* 當狀態產生問題或缺陷, 如何追蹤? 如何改善?
-* 成員是否依照規劃, 提供完整的文件、規格與手冊?
-
-
-</t>
-<t tx="leo.20170913103534.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103534.2"># SCM 目標 (1/2)
-
-* 辨識 (identification) - 需求、流程與環境的辨識
-* 控制 (control) - 批准或拒絕內容的變更
-* 會計 (accounting) -  完整保存每個階段所進行的變更
-* 審核 (auditing) - 確認建立完整的文件, 需求, 架構, 規範與使用者手冊
-* 構建管理 (build) - 管理過程中所需的各類工具
-
-
-
-</t>
-<t tx="leo.20170913103707.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913103707.2"># SCM 目標 (2/2)
-
-* 流程管理 (process) - 確認過程融入組織的發展要求
-* 環境管理 (environment) - 提供託管內容所需的軟體與硬體
-* 團隊合作 (teamwork) - 促進團隊互動協同
-* 缺陷追踪 (defect tracking) - 可追溯每個缺陷的源頭
-
-
-</t>
-<t tx="leo.20170913104957.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170913104957.2"># SCM 的目標
-
-* 以團隊協同合作模式
-* 透過詳細的履歷 (清楚註記時間、變更與建立者)
-* 完整呈現並管理各階段內容的組成元件與狀態
-* 達到資源高效運用, 最佳化軟體&lt;strike&gt;機械設計&lt;/strike&gt;開發過程
-
-</t>
 <t tx="leo.20171108195423.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -864,7 +722,7 @@ g.es("admin pelican Github 執行完畢")
 
 						
 </t>
-<t tx="leo.20180110231328.2"># 期末個人簡報影片
+<t tx="leo.20180110231328.2"># 期末影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASgzBx4Emms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
