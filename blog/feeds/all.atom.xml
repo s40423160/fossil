@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/" rel="alternate"></link><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cadpa.kmol.info/40423160/doc/trunk/blog/</id><updated>2018-01-11T12:00:00+08:00</updated><entry><title>2017 Fall CADP 期末報告</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html" rel="alternate"></link><published>2018-01-11T12:00:00+08:00</published><updated>2018-01-11T12:00:00+08:00</updated><author><name>40423160</name></author><id>tag:cadpa.kmol.info,2018-01-11:/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASgzBx4Emms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 期末報告</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html" rel="alternate"></link><published>2018-01-11T12:00:00+08:00</published><updated>2018-01-11T12:00:00+08:00</updated><author><name>40423160</name></author><id>tag:cadpa.kmol.info,2018-01-11:/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASgzBx4Emms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十八週 期末驗收</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html" rel="alternate"></link><published>2018-01-10T13:40:00+08:00</published><updated>2018-01-10T13:40:00+08:00</updated><author><name>40423160</name></author><id>tag:cadpa.kmol.info,2018-01-10:/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
-&lt;p&gt;心得 : 上起課來還是有點吃力, 不過已經比前半學期輕鬆不少了, 在這後半學期加入了第一組, 認識了幾位學弟妹, 大家一起為了期末而努力, 有人負責機構設計, 有人負責電路, 而我負責期末報告的整合及編寫, 經過幾個禮拜的努力, 大家終於做出機構了, 而且也完成3D列印了, 我也將github與Fossil整合協同了, 雖然中間走得跌跌撞撞的, 但是我們還是一起克服了這些困難, 就剩下期末報告的驗收了, 也有把完成後的Onshape影片跟彈珠檯影片還有機構模擬的影片都有放到Vimeo跟Youtube上, 辛苦各位組員, 也謝謝助教的幫忙與付出, 更謝謝老師這一學期地教導&lt;/p&gt;
-&lt;p&gt;自評成績:75&lt;/p&gt;
-&lt;p&gt;Onshape影片一:&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/250096665" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/250096665"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 Onshape 影片文化一&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape影片二:&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/250098570" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/250098570"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 Onshape 影片文化二&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;彈珠檯模擬影片:&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/249897827" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/249897827"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 個人期末驗收 彈珠臺&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;個人軌道模擬:&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/250241069" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/250241069"&gt;國立虎尾科技大學 機械設計工程系 電腦輔助設計實習 40423160 許育誠 個人軌道模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user73308565"&gt;40423160&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十八週 期末驗收</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html" rel="alternate"></link><published>2018-01-10T13:40:00+08:00</published><updated>2018-01-10T13:40:00+08:00</updated><author><name>40423160</name></author><id>tag:cadpa.kmol.info,2018-01-10:/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/" rel="alternate"></link><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cadpa.kmol.info/40423160/doc/trunk/blog/</id><updated>2018-01-10T13:40:00+08:00</updated><entry><title>2017 Fall CADP 第十八週 期末驗收</title><link href="https://cadpa.kmol.info/40423160/doc/trunk/blog/2017-fall-cadp-w18.html" rel="alternate"></link><published>2018-01-10T13:40:00+08:00</published><updated>2018-01-10T13:40:00+08:00</updated><author><name>40423160</name></author><id>tag:cadpa.kmol.info,2018-01-10:/40423160/doc/trunk/blog/2017-fall-cadp-w18.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;心得 : 上起課來還是有點吃力, 不過已經比前半學期輕鬆不少了, 在這後半學期加入了第一組, 認識了幾位學弟妹, 大家一起為了期末而努力, 有人負責機構設計, 有人負責電路, 而我負責期末報告的整合及編寫, 經過幾個禮拜的努力, 大家終於做出機構了, 而且也完成3D列印了, 我也將github與Fossil整合協同了, 雖然中間走得跌跌撞撞的, 但是我們還是一起克服了這些困難, 就剩下期末報告的驗收了, 也有把完成後的Onshape影片跟彈珠檯影片還有機構模擬的影片都有放到Vimeo跟Youtube上, 辛苦各位組員, 也謝謝助教的幫忙與付出, 更謝謝老師這一學期地教導&lt;/p&gt;
 &lt;p&gt;自評成績:75&lt;/p&gt;

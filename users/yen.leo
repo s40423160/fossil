@@ -866,8 +866,7 @@ g.es("admin pelican Github 執行完畢")
 </t>
 <t tx="leo.20180110231328.2"># 期末影片
 
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ASgzBx4Emms" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
